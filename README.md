@@ -4,7 +4,7 @@ TCUP Hub Notes
 
 ## Documents
 
-* [Data Science Workshop Agenda](doc/Data Science Workshop_Agenda.pdf)
+* [Data Science Workshop Agenda](doc/Data_Science_Workshop_Agenda.pdf)
 * [TCUP-data-sci-wksp_pre-work_github-onboarding.pdf](doc/TCUP-data-sci-wksp_pre-work_github-onboarding.pdf)
 * [TCUP-data-sci-wksp_pre-work_ORCID.pdf](doc/TCUP-data-sci-wksp_pre-work_ORCID.pdf)
 
