@@ -25,6 +25,7 @@ TCUP Hub Notes
   * [Tiered Sovereign Data Framework](https://atniclimate.github.io/TieredSovereignDataFramework/): tools for sovereign data protection in websites
   * [Dynamic Drought Module](https://atniclimate.github.io/dynamic-drought-module/?region=national&layers=hillshade%2Cnadm-drought%2Caiannh%2Cbia-reservations%2Cstates&view=brief): drought dashboard for Tribal Nations
   * [Climate Curriculum: Water](https://atniclimate.github.io/climate-curriculum/#s4): Interactive curriculum modules
+  * [ATNI Energy Task Forces](https://atniclimate.github.io/atni-task-force/): energy, data center, AI info page
 
 ## Resources
 
