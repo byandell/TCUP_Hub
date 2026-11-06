@@ -76,7 +76,7 @@ Noon Networking Lunch (meet your colleagues) (Patio Room)
 
 #### Resources, and Partner Support
 
-##### Sean Dudley (ASU)
+##### [Sean Dudley](https://search.asu.edu/profile/867279) (ASU)
 
 Sovereign Data Network
 
