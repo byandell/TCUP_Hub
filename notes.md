@@ -86,7 +86,7 @@ Sovereign Data Network
 * [First Languages AI Reality (FLAIR)](https://indigigenius.org/first-languages-ai-reality/) Michael Running Wolf
 * Open Science Intelligence (OSINT)
 * [Protostar (Hugging Face)](https://huggingface.co/project-protostar)
-* Tiered Data Sovereignty Framework (Patrick Freeland)
+* [Tiered Data Sovereignty Framework (Patrick Freeland)](https://atniclimate.github.io/TieredSovereignDataFramework/)
 * [Data Holdings (Potawatomi)](https://dataholdings.com/milwaukee-data-center-colocation)
 * [Internet2 Map (The Quilt)](https://www.thequilt.net/maps/internet2-overlay-map/)
 * [Consortium for Sciences, Policy & Outcomes](https://cspo.org/about-cspo/)
