@@ -38,7 +38,7 @@ TCUP Hub Notes
    [Many Glacier, MT](https://www.ncei.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USS0013A27S/detail)
 * [American Indian Higher Education Consortium - YouTube](https://www.youtube.com/@americanindianhighereducat1437)
   * Advanced Manufacturing In Tribal Nations
-    * [Part I](https://www.youtube.com/watch?v=EJWq1da3HYc)
-    * [Part II](https://www.youtube.com/watch?v=lehb7-IMgjE)
-    * [Part III](https://www.youtube.com/watch?v=5EzwkM1wUeo)
+    [Part I](https://www.youtube.com/watch?v=EJWq1da3HYc),
+    [Part II](https://www.youtube.com/watch?v=lehb7-IMgjE),
+    [Part III](https://www.youtube.com/watch?v=5EzwkM1wUeo)
   
