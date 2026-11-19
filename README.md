@@ -13,6 +13,8 @@ TCUP Hub Notes
 
 ## Repos
 
+* [TCUP-Hub Special Interest Groups](https://tcup-hub.org/?page_id=44)
+  * [TCUP Hub Data Science SIG (ESIIL)](https://cu-esiil.github.io/TCUP-hub-data-science-sig/)
 * [TCUP Data Science Workshop - Training](https://cu-esiil-edu.github.io/2026-tcup-dsw-training/)
 ([source](https://github.com/cu-esiil-edu/2026-tcup-dsw-training))
 * [Jason Tinant](https://github.com/cjtinant)
@@ -21,14 +23,22 @@ TCUP Hub Notes
 * [Brian Yandell](https://byandell.github.io/)
   * [Document Tools: Data Sciences](https://byandell.github.io/DocumentTools/datasci/): tools & information about data sciences
   * [MafA Discovery](https://chalab2022.github.io/MafADiscovery/): interactive site deployed via GitHub Pages
+  * [Patrick Freeland Guides](https://github.com/byandell/pfGuides)
 * Patrick Freeland Repos
   * [Tiered Sovereign Data Framework](https://atniclimate.github.io/TieredSovereignDataFramework/): tools for sovereign data protection in websites
   * [Dynamic Drought Module](https://atniclimate.github.io/dynamic-drought-module/?region=national&layers=hillshade%2Cnadm-drought%2Caiannh%2Cbia-reservations%2Cstates&view=brief): drought dashboard for Tribal Nations
   * [Climate Curriculum: Water](https://atniclimate.github.io/climate-curriculum/#s4): Interactive curriculum modules
   * [ATNI Energy Task Forces](https://atniclimate.github.io/atni-task-force/): energy, data center, AI info page
+* [Sean Dudley, ASU](https://search.asu.edu/profile/867279)
+  * [TCUP DSW Presentation (Sean Dudley)](https://drive.google.com/file/d/1_g4MHnYLSdwHXWmhLm-Drvavdd8yNU10/view)
 
 ## Resources
 
 * [NOAA Climate Data Online (CDO)](https://www.ncei.noaa.gov/cdo-web/)
    [Many Glacier, MT](https://www.ncei.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USS0013A27S/detail)
+* [American Indian Higher Education Consortium - YouTube](https://www.youtube.com/@americanindianhighereducat1437)
+  * Advanced Manufacturing In Tribal Nations
+    * [Part I](https://www.youtube.com/watch?v=EJWq1da3HYc)
+    * [Part II](https://www.youtube.com/watch?v=lehb7-IMgjE)
+    * [Part III](https://www.youtube.com/watch?v=5EzwkM1wUeo)
   
